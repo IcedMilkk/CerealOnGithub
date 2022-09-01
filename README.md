@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CerealOnGithub
 - 👀 I’m interested in Coding minecraft mods
 - 🌱 I’m currently learning Java
-- 📫 You can contact me on discord: Caprisun#9999
+- 📫 You can contact me on discord: cereal#9999
 
 here i will put any mods/files I might need.
 
